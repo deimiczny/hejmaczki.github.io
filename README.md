@@ -48,7 +48,7 @@ Umożliwia ustawianie waypointów do szybkiego "teleportowania" się między nim
 
 #### Recepta na waypoint
 
-(!waypoint)[waypoint.png]
+(!waypoint)[waystone_recipe.png]
 
 #### Komendy
 
