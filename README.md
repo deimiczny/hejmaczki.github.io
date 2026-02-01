@@ -43,6 +43,7 @@ Umożliwia dodawania znaczników na mapie poprzez ustawianie znaków w grze. Tut
   
   ![znak1](example1.png)
 - Jeśli **przynajmniej** w jednej linii od 2 do 4 znalazł się tekst - marker **zostanie** dodany na mapie (<https://mapa.hejmaczki.pl>).
+- 
   ![znak2](example3.png)
   ![znak4](example4.png)
 - Jeśli **każda** linia od 2 do 4 jest **pusta** - znak zostanie dodany w grze, ale marker **nie zostanie** dodany na mapie.
