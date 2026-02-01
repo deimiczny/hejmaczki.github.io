@@ -4,17 +4,17 @@ Tutaj znajdziecie kilka ważnych informacji o naszym serwerze - adresy, pluginy 
 
 ## Adresy
 - **Serwer:** hejmaczki.pl, (porty: java 20207, bedrock 32144)
-- **Mapa:** https://mapa.hejmaczki.pl
-- **Status serwera:** https://status.hejmaczki.pl (info czy ded + ile graczy obecnie gra)
-- **Statystyki serwera:** https://stats.hejmaczki.pl (trzeba założyć usera i potwierdzić kodem w grze)
-- **Dokumentacja:** https://docs.hejmaczki.pl
-- **Discord:** https://discord.gg/HU2K8shQ
+- **Mapa:** <https://mapa.hejmaczki.pl>
+- **Status serwera:** <https://status.hejmaczki.pl> (info czy ded + ile graczy obecnie gra)
+- **Statystyki serwera:** <https://stats.hejmaczki.pl> (trzeba założyć usera i potwierdzić kodem w grze)
+- **Dokumentacja:** <https://docs.hejmaczki.pl>
+- **Discord:** <https://discord.gg/HU2K8shQ>
 
 ## Ogólne zasady
 
 Garść ważnych zasad obowiązujących na serwerze plus kilka protipów:
 - operatorzy to **deimiczny** oraz **WuJery13**
-- obowiązuje whitelista - żeby zagrać, musisz zostać dodany/a
+- obowiązuje whitelista - żeby zagrać, musisz zostać dodany/a. Skontaktuj się z opami.
 - gramy w survivalu
 - generalnie robimy co chcemy - budujemy, zwiedzamy, grillujemy i kochamy
 - jesteśmy dla siebie mili. To nasz safespace.
@@ -30,7 +30,7 @@ Umożliwia granie z Bedrocka. Jak? Po prostu w Bedrocku wpisujesz adres serwera,
 
 ### 🪧 Easy BlueMap Sign Markers
 
-Umożliwia dodawania znaczników na mapie poprzez ustawianie znaków w grze. Tutaj więcej info: https://modrinth.com/plugin/easy-bluemap-sign-markers
+Umożliwia dodawania znaczników na mapie poprzez ustawianie znaków w grze. Tutaj więcej info: <https://modrinth.com/plugin/easy-bluemap-sign-markers>
 
 #### Jak stawiać markery?
 
@@ -44,7 +44,7 @@ Umożliwia dodawania znaczników na mapie poprzez ustawianie znaków w grze. Tut
 
 
 ### 🧭 TeaWaypoints
-Umożliwia ustawianie waypointów do szybkiego "teleportowania" się między nimi, coś jak fast travel w innych gierkach. Tutaj info: https://modrinth.com/plugin/teawaystones.
+Umożliwia ustawianie waypointów do szybkiego "teleportowania" się między nimi, coś jak fast travel w innych gierkach. Tutaj więcej info: <https://modrinth.com/plugin/teawaystones>
 
 #### Receptura na waypoint
 
@@ -62,7 +62,7 @@ Potrzebne będą:
 
 ### 🪑 GSit
 
-Prosty, kosmetyczny plugin. Umożliwia siadanie, leżenie i inne akrobacje. Więcej info: https://hangar.papermc.io/Gecolay/GSit
+Prosty, kosmetyczny plugin. Umożliwia siadanie, leżenie i inne akrobacje. Więcej info: <https://hangar.papermc.io/Gecolay/GSit>
 
 #### Komendy
 
