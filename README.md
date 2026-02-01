@@ -46,7 +46,13 @@ Umożliwia dodawania znaczników na mapie poprzez ustawianie znaków w grze. Tut
 ### 🧭 TeaWaypoints
 Umożliwia ustawianie waypointów do szybkiego "teleportowania" się między nimi, coś jak fast travel w innych gierkach. Tutaj info: https://modrinth.com/plugin/teawaystones.
 
-#### Recepta na waypoint
+#### Receptura na waypoint
+
+Potrzebne będą:
+- 4x Obsidian
+- 3x Redstone
+- 1x Glowstone Dust
+- 1x Compass
 
 ![waypoint](waystone_recipe.png)
 
