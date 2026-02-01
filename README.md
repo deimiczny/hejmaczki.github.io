@@ -24,11 +24,11 @@ Garść ważnych zasad obowiązujących na serwerze plus kilka protipów:
 
 Na serwerze śmiga kilka przydatnych pluginów. Najważniejsze z nich:
 
-### Geyser
+### 🪢 Geyser
 
 Umożliwia granie z Bedrocka. Jak? Po prostu w Bedrocku wpisujesz adres serwera, plus dedykowany port (znajdziesz w pierwszej sekcji tego dokumentu) i dołączysz do gry. Przy pierwszym dołączeniu gra poprosi Cię o weryfikację Twojego konta Microsoft/Minecraft.
 
-### Easy BlueMap Sign Markers
+### 🪧 Easy BlueMap Sign Markers
 
 Umożliwia dodawania znaczników na mapie poprzez ustawianie znaków w grze. Tutaj więcej info: https://modrinth.com/plugin/easy-bluemap-sign-markers
 
@@ -43,7 +43,7 @@ Umożliwia dodawania znaczników na mapie poprzez ustawianie znaków w grze. Tut
 - Jeśli **każda** linia od 2 do 4 jest **pusta** - znak zostanie dodany w grze, ale marker **nie zostanie** dodany na mapie.
 
 
-### TeaWaypoints
+### 🧭 TeaWaypoints
 Umożliwia ustawianie waypointów do szybkiego "teleportowania" się między nimi, coś jak fast travel w innych gierkach. Tutaj info: https://modrinth.com/plugin/teawaystones.
 
 #### Recepta na waypoint
@@ -54,7 +54,7 @@ Umożliwia ustawianie waypointów do szybkiego "teleportowania" się między nim
 
 `/tw setname <name>` - ustawia nazwę dla waypointu. Komendę trzeba wykonać celując w dany waypoint.
 
-### GSit
+### 🪑 GSit
 
 Prosty, kosmetyczny plugin. Umożliwia siadanie, leżenie i inne akrobacje. Więcej info: https://hangar.papermc.io/Gecolay/GSit
 
